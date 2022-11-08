@@ -1,0 +1,11 @@
+﻿  Ball.c
+C:\Users\vasmo\source\repos\Project5\Project5\Ball.c(26,42): error C2065: event_Mouse: необъявленный идентификатор
+C:\Users\vasmo\source\repos\Project5\Project5\Ball.c(26,42): warning C4133: функция: несовместимые типы - из "int *" в "SDL_Event *"
+C:\Users\vasmo\source\repos\Project5\Project5\Ball.c(28,26): error C2065: event: необъявленный идентификатор
+C:\Users\vasmo\source\repos\Project5\Project5\Ball.c(28,27): error C2224: выражение слева от ".type" должно иметь тип структуры или объединения
+C:\Users\vasmo\source\repos\Project5\Project5\Ball.c(34,26): error C2065: event: необъявленный идентификатор
+C:\Users\vasmo\source\repos\Project5\Project5\Ball.c(34,27): error C2224: выражение слева от ".mouse" должно иметь тип структуры или объединения
+C:\Users\vasmo\source\repos\Project5\Project5\Ball.c(113,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vasmo\source\repos\Project5\Project5\Ball.c(116,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vasmo\source\repos\Project5\Project5\Ball.c(130,5): error C2084: функция "int SDL_main(int,char **)" уже имеет текст реализации
+C:\Users\vasmo\source\repos\Project5\Project5\Ball.c(22): message : см. предыдущее определение "SDL_main"
